@@ -2,7 +2,7 @@
 
 Pré-requisitos:
 - Ter o composer instalado,
-  https://getcomposer.org
+  https://getcompphp composer-setup.php --install-dir=bin --filename=composeroser.org
 - É preciso instalar as  dependências do laravel pelo composer seguindo o manual de instalação do Laravel, 
   https://laravel.com/docs/5.6
   
